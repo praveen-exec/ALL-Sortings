@@ -445,7 +445,7 @@ Only the desired sorting function needs to be uncommented.
 
 ---
 
-# 🧠 Important Concepts Used
+# Important Concepts Used
 
 This project demonstrates several important DSA concepts:
 
@@ -466,7 +466,7 @@ This project demonstrates several important DSA concepts:
 
 ---
 
-# 🎯 Learning Objectives
+#  Learning Objectives
 
 Through this project, the following concepts can be understood:
 
