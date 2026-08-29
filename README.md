@@ -21,6 +21,7 @@ The program uses a `vector<int>` to store the input array and provides separate 
 ## 👨‍💻 Author
 
 **Praveen Singh**
+<br>
 **IIT JAMMU MTECH CSE**
 
 ---
