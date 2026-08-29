@@ -40,7 +40,7 @@ The program uses a `vector<int>` to store the input array and provides separate 
 ```text
 ALL-Sortings/
 │
-├── sorting.cpp
+├── Sortings.cpp
 └── README.md
 ```
 
