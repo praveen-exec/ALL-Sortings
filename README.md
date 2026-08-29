@@ -361,7 +361,7 @@ cd ALL-Sortings
 ### 3. Compile
 
 ```bash
-g++ sorting.cpp -o sorting
+g++ Sortings.cpp -o sorting
 ```
 
 ### 4. Run
