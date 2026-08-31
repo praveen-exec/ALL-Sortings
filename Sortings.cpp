@@ -33,6 +33,7 @@ void Insertion_Sort(vector<int>& arr, int n) {
             arr[j + 1] = arr[j];
             j--;
         }
+        //j=-1 so we add j+1=0
         arr[j + 1] = temp;
     }
 }
